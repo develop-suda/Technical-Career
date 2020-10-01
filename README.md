@@ -5,7 +5,6 @@
 |key|value|
 |---|-----|
 |Name|須田|
-|Twitter|[@foobar](https://twitter.com)|
 
 ## スキル
 ### 言語
